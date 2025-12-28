@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Composer",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Although the idea of dependency management ..."
+  },
+  {
+    "name": "Canary builds",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Many projects have external code dependencies ..."
+  }
+]
